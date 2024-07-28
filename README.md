@@ -12,6 +12,7 @@ I have developed a simple calculator using basic Python constructs such as if-el
 <br>
 <b>Error Handling</b>: Invalid input is managed using while loops and try-except blocks to ensure the calculator operates smoothly.
 <br>
+<br>
 <b>User Interaction</b>: The entire code is encapsulated within a while loop, allowing the user to perform multiple operations and choose when to exit the calculator.
 <br>
 <br>
